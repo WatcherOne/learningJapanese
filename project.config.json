@@ -40,13 +40,13 @@
   },
   "compileType": "miniprogram",
   "libVersion": "3.0.0",
-  "appid": "wx16d26cbba526afec",
+  "appid": "wxb955520b8482daac",
   "projectname": "learning",
   "simulatorType": "wechat",
   "simulatorPluginLibVersion": {},
-  "condition": {},
   "editorSetting": {
     "tabIndent": "insertSpaces",
     "tabSize": 2
-  }
+  },
+  "condition": {}
 }

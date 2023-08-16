@@ -1,1 +1,24 @@
-/* pages/home/index.wxss */
+.list-container {
+  height: 100%;
+  background-color: #f8f8f8;
+  padding-top: 40%;
+  box-sizing: border-box;
+}
+
+.list-container .list-item {
+  height: 70rpx;
+  display: flex;
+  align-items: center;
+  padding: 5px 10px;
+  margin: 5px 0;
+  border-top: 1px solid #dedede;
+}
+
+.list-container .list-item:last-child {
+  border-bottom: 1px solid #dedede;
+}
+
+.list-container .list-item .text {
+  font-size: 14px;
+  color: #555;
+}

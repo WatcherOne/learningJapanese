@@ -1,0 +1,9 @@
+<scroll-view type="custom" class="list-container">
+  <view class="list-item">
+    <span class="text">联系开发</span>
+  </view>
+  <view class="list-item">
+    <span class="text">反馈问题</span>
+  </view>
+</scroll-view>
+<button type="primary">测试按钮</button>
